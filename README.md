@@ -1,5 +1,5 @@
 # Cloud-Computing-RMI-Calculator
- Calculator usin RMI (Remote Method Invocation) in Java.
+ Calculator using RMI (Remote Method Invocation) in Java.
  
 -  RMI program in which server performs basic arithmetic operations. The server provide following methods for remote invocation: 
 1. int add(int a, int b)
